@@ -21,7 +21,7 @@ To install the client, follow these steps:
 
   1. Open a terminal or command prompt
 
-  2. Clone the repository by running the following command: `git clone https://github.com/CEO-Chair/TerraAngel.git --recursive`
+  2. Clone the repository by running the following command: `git clone https://github.com/TopazZD/TerraAngel.git --recursive`
 
   ![image](https://user-images.githubusercontent.com/87276335/182042166-c967bcba-cd52-4372-ad75-3bc5faaac0ea.png)
 
